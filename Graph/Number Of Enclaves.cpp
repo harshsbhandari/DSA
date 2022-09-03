@@ -52,9 +52,9 @@ int numberOfEnclaves(vector<vector<int>> &arr) {
         return count;
     }
 
-DFS - 130/132 cases passed
+DFS - 130/132 cases passed (In dfs() arr passed by reference, then all test cases passed)
   
-  void dfs(vector<vector<int>> &vis, vector<vector<int>>arr, int delr[], int delc[], int row, int col, int n, int m){
+  void dfs(vector<vector<int>> &vis, vector<vector<int>>& arr, int delr[], int delc[], int row, int col, int n, int m){
         vis[row][col] = 1;
         
         for(int i = 0; i < 4; i++){
