@@ -19,7 +19,7 @@ bool dfs(int node, vector<int> adj[],  vector<int>& vis,  vector<int>& pathvis){
             else if(vis[i] && pathvis[i])
                 return true;
         }
-        //  marking the path as unvisited while going back*
+        //  marking the path as unvisited while going back
         
         pathvis[node] = 0;
         return false;
