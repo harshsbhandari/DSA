@@ -23,13 +23,13 @@ vector<int> shortestPath(int n, int m, vector<vector<int>>& edges) {
             pq.pop();
             
             for(auto it : adj[node]){
-                int edgeNode = it.first;
-                int edgeWeight = it.second;
+                int adjNode = it.first;
+                int nodeWeight = it.second;
                 
-                if((dis + edgeWeight) < dist[edgeNode]){
-                    dist[edgeNode] = (dis + edgeWeight);
-                    pq.push({(dis + edgeWeight), edgeNode});
-                    parent[edgeNode] = node;
+                if((dis + nodeWeight) < dist[adjNode]){
+                    dist[adjNode] = (dis + nodeWeight);
+                    pq.push({(dis + nodeWeight), adjNode});
+                    parent[adjNode] = node;
                 }
             }
         }
