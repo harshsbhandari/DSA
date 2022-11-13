@@ -1,10 +1,10 @@
-1. Find Center of Star Graph - https://leetcode.com/problems/find-center-of-star-graph/
-2. Find if Path Exists in Graph - https://leetcode.com/problems/find-if-path-exists-in-graph/
-3. Find the Town Judge - https://leetcode.com/problems/find-the-town-judge/
-4. All Paths From Source to Target - https://leetcode.com/problems/all-paths-from-source-to-target/
-5. Minimum Number of Vertices to Reach All Nodes - https://leetcode.com/problems/minimum-number-of-vertices-to-reach-all-nodes/
-6. Keys and Rooms - https://leetcode.com/problems/keys-and-rooms/
-7. Number of Provinces - https://leetcode.com/problems/number-of-provinces/
-8. Redundant Connection - https://leetcode.com/problems/redundant-connection/
-9. Reorder Routes to Make All Paths Lead to the City Zero - https://leetcode.com/problems/reorder-routes-to-make-all-paths-lead-to-the-city-zero/
+Find Center of Star Graph - https://leetcode.com/problems/find-center-of-star-graph/
+Find if Path Exists in Graph - https://leetcode.com/problems/find-if-path-exists-in-graph/
+Find the Town Judge - https://leetcode.com/problems/find-the-town-judge/
+All Paths From Source to Target - https://leetcode.com/problems/all-paths-from-source-to-target/
+Minimum Number of Vertices to Reach All Nodes - https://leetcode.com/problems/minimum-number-of-vertices-to-reach-all-nodes/
+Keys and Rooms - https://leetcode.com/problems/keys-and-rooms/
+Number of Provinces - https://leetcode.com/problems/number-of-provinces/
+Redundant Connection - https://leetcode.com/problems/redundant-connection/
+Reorder Routes to Make All Paths Lead to the City Zero - https://leetcode.com/problems/reorder-routes-to-make-all-paths-lead-to-the-city-zero/
 
