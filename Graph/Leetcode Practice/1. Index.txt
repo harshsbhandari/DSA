@@ -1,1 +1,5 @@
-1. Find 
+1. Find Center of Star Graph - https://leetcode.com/problems/find-center-of-star-graph/
+2. Find if Path Exists in Graph - https://leetcode.com/problems/find-if-path-exists-in-graph/
+3. Find the Town Judge - https://leetcode.com/problems/find-the-town-judge/
+4. All Paths From Source to Target - https://leetcode.com/problems/all-paths-from-source-to-target/
+5. Minimum Number of Vertices to Reach All Nodes - https://leetcode.com/problems/minimum-number-of-vertices-to-reach-all-nodes/
