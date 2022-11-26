@@ -8,3 +8,4 @@ Number of Provinces - https://leetcode.com/problems/number-of-provinces/
 Redundant Connection - https://leetcode.com/problems/redundant-connection/
 Reorder Routes to Make All Paths Lead to the City Zero - https://leetcode.com/problems/reorder-routes-to-make-all-paths-lead-to-the-city-zero/
 Maximum Total Importance of Roads - https://leetcode.com/problems/maximum-total-importance-of-roads/description/
+Most Stones Removed with Same Row or Column - https://leetcode.com/problems/most-stones-removed-with-same-row-or-column/
