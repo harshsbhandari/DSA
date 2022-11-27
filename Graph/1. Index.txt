@@ -1,2 +1,56 @@
 Introduction to Graph
- 
+Graph representation 1
+Graph representation 2
+Connected components
+BFS Graph
+DFS Graph
+Number of provinces
+Number of islands
+Flood fill algorithm
+Rotten oranges
+Detect a cycle in undirected graph (using BFS)
+Detect a cycle in undirected graph (using DFS)
+Distance of nearest cell having 1
+Surrounded regions
+Number of enclaves
+Number of distinct islands
+Bipartite graph (using BFS)
+Bipartite graph (using DFS)
+Detect a cycle in directed graph (using DFS)
+Find eventual safe states
+Topological sort Algorithm (DFS)
+Topological sort Algorithm (Kahn's Algorithm - BFS)
+Detect a cycle in directed graph (using Kahn's Algorithm)
+Course schedule 1 and 2 (Pre-requisite tasks - Topological sort)
+Find eventual safe state (using - Topological sort)
+Alien Dictionary
+Shortest path in directed acyclic graph
+Shortest path in undirected graph
+Word ladder 1
+Word ladder 2
+Word ladder 2 (optimised)
+Dijkstra's Algorithm (using Priority queue)
+Dijkstra's Algorithm (using set)
+Dijkstra's Algorithm (Derivation)
+Print shortest path (using Dijkstra Algorithm)
+Shortest Distance in Binary maze
+Path with minimum effort
+Cheapest Flights within K stops
+Minimum multiplication to reach end
+Number of ways to arrive at destination
+Bellman Ford Algorithm
+Floyd Warshall Algorithm
+Find the city with smallest number of beighbours at a threshold distannce
+Minimum Spannung Tree (Theory)
+Minimum Spannung Tree (Prim's Algorithm)
+Disjoint set
+Kruskal's Algorithm
+Number of provinces (using Disjoint set)
+Number of operaions to make newtwork connected (using Disjoint set)
+Accounts merge (using Disjoint set)
+Number of islands 2 queries (using Disjoint set)
+Making a large island (using Disjoint set)
+Most stones removed with same row or column (using Disjoint set)
+Strongly connected components (Kosaraju's Algorithm)
+Bridges in graph (Tarjan's Algorithm)
+Articulation point in graph
