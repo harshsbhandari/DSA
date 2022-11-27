@@ -46,7 +46,7 @@ Minimum Spannung Tree (Prim's Algorithm)
 Disjoint set
 Kruskal's Algorithm
 Number of provinces (using Disjoint set)
-Number of operaions to make newtwork connected (using Disjoint set)
+Number of operations to make network connected (using Disjoint set)
 Accounts merge (using Disjoint set)
 Number of islands 2 queries (using Disjoint set)
 Making a large island (using Disjoint set)
