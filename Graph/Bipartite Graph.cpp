@@ -33,7 +33,7 @@ bool bfs(int node, vector<int>adj[], vector<int>& color){
 	    for(int i = 0; i < n; i++){
 	        if(color[i] == -1){
 	            if(bfs(i, adj, color) == false)
-	            return false;
+	            	return false;
 	        }
 	    }
 	    return true;
