@@ -1,4 +1,4 @@
-https://leetcode.com/problems/subarrays-with-k-different-integers/
+// https://practice.geeksforgeeks.org/problems/eventual-safe-states/1
 
 bool dfs(int node, vector<int> adj[],  vector<int>& vis,  vector<int>& pathvis, vector<int>& check){
         vis[node] = 1;
