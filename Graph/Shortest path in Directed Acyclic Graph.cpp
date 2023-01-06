@@ -39,6 +39,7 @@ void toposort(int& node, vector<pair<int,int>> adj[], stack<int>& st, vector<int
         // it is the source node
         dist[0] = 0;
         
+	// relaxation of the nodes
         while(!st.empty()){
             int u = st.top();
             st.pop();
@@ -47,6 +48,7 @@ void toposort(int& node, vector<pair<int,int>> adj[], stack<int>& st, vector<int
                 int v = i.first;
                 int wt = i.second;
                 
+		// updating the 'distance' of 'v' with a value that is as minimum as possible
                 if(dist[u]+wt < dist[v])
                     dist[v] = dist[u]+wt;
             }
