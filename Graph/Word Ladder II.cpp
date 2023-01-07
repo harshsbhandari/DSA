@@ -15,7 +15,7 @@ vector<vector<string>> findSequences(string begin, string end, vector<string>& w
             vector<string>vec = q.front();
             q.pop();
             
-            // erase all the words that has benn used in the previous levels to transform
+            // erase all the words that has been used in the previous levels to transform
             if(vec.size() > level){
                 level++;
                 
